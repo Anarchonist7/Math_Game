@@ -1,0 +1,12 @@
+There will be two classes,
+
+Player
+
+and
+
+Game
+
+The player class will contain the players scores, the players lives, and the player's name. Requires a name to intialize.
+
+The Game class will contain which turn it is, a method to determine if either player's score has reached 0 and output game over, a random number method that picks two numbers to add together, a method to determine if the answer is correct or not and update the relevant players score. This class will handle player input and output.
+Requires the instances of the players to be intialized.
